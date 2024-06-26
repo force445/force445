@@ -15,3 +15,5 @@ YAML          2 hrs 15 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 [![force445's GitHub | Languages Over Time](https://stats.quira.sh/force445/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=force445)
+
+[![force445's GitHub | Stats](https://stats.quira.sh/force445/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=force445)
