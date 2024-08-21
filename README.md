@@ -46,7 +46,3 @@ Gaming:
 
 Editor:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-[![force445's GitHub | Languages Over Time](https://stats.quira.sh/force445/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=force445)
-
-
